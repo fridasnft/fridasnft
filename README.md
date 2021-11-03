@@ -6,3 +6,7 @@
 - 📫 How to reach me https://www.fridasnft.com
 
  
+
+Content
+
+FridasNFT.SOL ->  Smart Contract for the Fridas NFT project.
