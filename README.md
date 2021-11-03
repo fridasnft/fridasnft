@@ -1,4 +1,6 @@
 
+![alt text](fridas.gif)
+
 
 - 👋 Hi, I’m @fridasnft
 - 👀 I’m interested in Blockchain & NFT
